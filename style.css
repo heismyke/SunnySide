@@ -1,0 +1,39 @@
+#title{
+ background-image: url(./images/desktop/image-header.jpg);
+ height: 800px;
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+}
+.container-fluid{
+
+}
+
+.logo-text{
+  font-family: 'Barlow', sans-serif;
+  font-weight:800;
+  font-size: 3rem;
+}
+
+.navbar-links li a{
+  color: white !important;
+  font-size: 16px;
+}
+
+.creative-text{
+  font-family: 'Fraunces', serif;
+  letter-spacing: 5px;
+  
+  color: white;
+}
+.transformText h1{
+  font-size: 3rem !important;
+  width: 50%;
+  font-family: 'Fraunces', serif;
+  font-weight:800;
+}
+.transformText p{
+  font-family: 'Barlow', sans-serif;
+  font-weight:300;
+  width: 50%;
+}
