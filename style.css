@@ -6,7 +6,7 @@
  background-repeat: no-repeat;
 }
 .container-fluid{
-
+padding: 0 5%;
 }
 
 .logo-text{
@@ -35,4 +35,15 @@
   font-weight:300;
   font-size: 16px;
 
+}
+.audienceText h1{
+  font-size: 3rem !important;
+  font-family: 'Fraunces', serif;
+  font-weight:800;
+}
+
+.audienceText p{
+  font-family: 'Barlow', sans-serif;
+  font-weight:300;
+  font-size: 16px;
 }
