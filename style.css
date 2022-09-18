@@ -47,3 +47,20 @@ padding: 0 5%;
   font-weight:300;
   font-size: 16px;
 }
+.firstImg{
+  padding-right:0;
+  padding-left:0;
+}
+.secondImg{
+  padding-left:0;
+  padding-right:0;
+}
+
+.anotherTwo{
+  padding-left:0;
+  padding-right:0;
+}
+.otherOne{
+  padding-right:0;
+  padding-left:0;
+}
