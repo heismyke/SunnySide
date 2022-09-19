@@ -88,4 +88,5 @@ padding: 0 5%;
 }
 #gallery{
   padding: 7% 2%;
+  overflow-y: hidden;
 }
