@@ -87,7 +87,7 @@ padding: 0 5%;
   font-family: 'Fraunces', serif;
 }
 #gallery{
-  padding: 7% 2%;
+  /* padding: 7% 2%; */
   overflow-x: hidden;
 }
 .footerText h1{
@@ -99,6 +99,7 @@ padding: 0 5%;
   font-family: 'Barlow', sans-serif;
   color: #2f7567;
   font-size: 1rem;
+  font-weight: 200;
 }
 .footerIcon{
   font-size: 25px;
