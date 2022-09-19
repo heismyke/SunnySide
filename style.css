@@ -90,3 +90,21 @@ padding: 0 5%;
   padding: 7% 2%;
   overflow-y: hidden;
 }
+.footerText h1{
+  font-family: 'Barlow', sans-serif;
+  color: #2f7567;
+  font-weight: bolder;
+}
+.footerText p{
+  font-family: 'Barlow', sans-serif;
+  color: #2f7567;
+  font-size: 1rem;
+}
+.footerIcon{
+  font-size: 25px;
+  color: #2f7567;
+}
+
+#footer{
+  background-color: #90d4c4;
+}
