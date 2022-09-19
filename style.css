@@ -4,6 +4,7 @@
  background-size: cover;
  background-position: center;
  background-repeat: no-repeat;
+ background-attachment: fixed;
 }
 .container-fluid{
 padding: 0 5%;
@@ -50,6 +51,7 @@ padding: 0 5%;
 .firstImg{
   padding-right:0;
   padding-left:0;
+  position: relative;
 }
 .secondImg{
   padding-left:0;
@@ -109,4 +111,8 @@ padding: 0 5%;
 #footer{
   background-color: #90d4c4;
   overflow-x: hidden;
+}
+.textGraphic{
+  position: absolute;
+  top: 0;
 }
